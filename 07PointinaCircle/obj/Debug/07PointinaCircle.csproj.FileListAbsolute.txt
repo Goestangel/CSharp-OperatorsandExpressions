@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\07PointinaCircle\bin\Debug\07PointinaCircle.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\07PointinaCircle\bin\Debug\07PointinaCircle.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\07PointinaCircle\bin\Debug\07PointinaCircle.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\07PointinaCircle\obj\Debug\07PointinaCircle.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\07PointinaCircle\obj\Debug\07PointinaCircle.pdb

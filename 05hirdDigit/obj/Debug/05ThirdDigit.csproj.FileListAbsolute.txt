@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\05hirdDigit\bin\Debug\05hirdDigit.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\05hirdDigit\bin\Debug\05hirdDigit.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\05hirdDigit\bin\Debug\05hirdDigit.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\05hirdDigit\obj\Debug\05hirdDigit.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\05hirdDigit\obj\Debug\05hirdDigit.pdb

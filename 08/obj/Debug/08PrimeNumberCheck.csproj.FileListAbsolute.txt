@@ -1,0 +1,5 @@
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\08\bin\Debug\08.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\08\bin\Debug\08.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\08\bin\Debug\08.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\08\obj\Debug\08.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\08\obj\Debug\08.pdb

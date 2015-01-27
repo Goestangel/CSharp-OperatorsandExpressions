@@ -1,0 +1,6 @@
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\OddorEvenIntegers\bin\Debug\OddorEvenIntegers.exe.config
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\OddorEvenIntegers\bin\Debug\OddorEvenIntegers.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\OddorEvenIntegers\bin\Debug\OddorEvenIntegers.pdb
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\OddorEvenIntegers\obj\Debug\OddorEvenIntegers.csprojResolveAssemblyReference.cache
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\OddorEvenIntegers\obj\Debug\OddorEvenIntegers.exe
+c:\users\goshev\documents\visual studio 2013\Projects\OperatorsandExpressions\OddorEvenIntegers\obj\Debug\OddorEvenIntegers.pdb
