@@ -1,2 +1,0 @@
-# CSharp-OperatorsandExpressions
-OperatorsandExpressions
